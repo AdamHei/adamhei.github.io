@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Pay Adam H
+title: Pay Adam Heimendinger
 email: aheimen17@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The various ways to send money digitally to Adam Heimendinger
@@ -28,7 +28,7 @@ twitter_username: A_Heimen17
 github_username:  AdamHei
 
 # Build settings
-theme: minima
+theme: no-style-please
 plugins:
   - jekyll-feed
 
