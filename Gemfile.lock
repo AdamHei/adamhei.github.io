@@ -143,6 +143,8 @@ GEM
       sass (~> 3.4)
     jekyll-seo-tag (2.6.1)
       jekyll (>= 3.3, < 5.0)
+    jekyll-shell-theme (0.1.0)
+      jekyll (~> 3.8.5)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-swiss (1.0.0)
@@ -206,10 +208,6 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.14.3)
     multipart-post (2.1.1)
-    no-style-please (0.4.0)
-      jekyll (~> 3.8.7)
-      jekyll-feed (~> 0.13.0)
-      jekyll-seo-tag (~> 2.6.1)
     nokogiri (1.11.1-arm64-darwin)
       racc (~> 1.4)
     nokogiri (1.11.1-x86_64-darwin)
@@ -259,8 +257,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.12)
-  minima (~> 2.5)
-  no-style-please (~> 0.4.0)
+  jekyll-shell-theme
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)

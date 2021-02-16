@@ -28,7 +28,7 @@ twitter_username: A_Heimen17
 github_username:  AdamHei
 
 # Build settings
-theme: no-style-please
+theme: jekyll-shell-theme
 plugins:
   - jekyll-feed
 
