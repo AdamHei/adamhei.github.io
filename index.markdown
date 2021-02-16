@@ -3,7 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: 
 ---
+
 # Cash App
 [Pay in app](https://cash.app/$AdamHeimendinger/amount){: .btn}
 <div style="text-align: center">
