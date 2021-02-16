@@ -7,6 +7,9 @@ title: Pay Adam
 BTC: 3JSomsTZNvHY8kXSKdTpFgYCDhCxhbx1RR  
 ETH: 0xc4F0e44FA99196C93d85c723c0f5F44740F5AA5d
 
+## PayPal
+<a href="https://paypal.me/adamhei?locale.x=en_US" class="button">PayPal.me</a>
+
 ## Cash App
 <a href="https://cash.app/$AdamHeimendinger/amount" class="button">Open Cash App</a>  
 <div style="text-align: center">
